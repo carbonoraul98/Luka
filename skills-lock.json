@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "bash-defensive-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "autoskills-registry",
+      "computedHash": "2c6409224fbb56ceff6655b73cb03a736ea6c89e622734752c568efafd59a964"
+    }
+  }
+}
